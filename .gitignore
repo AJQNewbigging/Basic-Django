@@ -1,3 +1,6 @@
 basicDjango/
 venv/
 */*.pyc
+
+
+.DS_Store
