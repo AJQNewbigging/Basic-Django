@@ -1,6 +1,12 @@
+# ignore all virtualenv dirs
 basicDjango/
 venv/
+
+# ignore all pyc
 */*.pyc
 
+# ignore local configuration
+*/conf/local.py
 
+# MAC OSX HAHAHAHA
 .DS_Store
