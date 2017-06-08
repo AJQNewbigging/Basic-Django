@@ -3,10 +3,13 @@ basicDjango/
 venv/
 
 # ignore all pyc
-*/*.pyc
+*.pyc
 
 # ignore local configuration
 */conf/local.py
+
+# ignore databases
+*/db.sqlite3
 
 # MAC OSX HAHAHAHA
 .DS_Store
